@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace M11_01_01_Exceptions_ComExcepcaoSemTratamento
+namespace M11_01_02_Exceptions_ComExcepcaoSemTratamento
 {
     class Program
     {
