@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M11_01_04_Exceptions_ComTratamentoDeExcepcaoEspecífica", "M11_01_04_Exceptions_ComTratamentoDeExcepcaoEspecífica\M11_01_04_Exceptions_ComTratamentoDeExcepcaoEspecífica.csproj", "{3AA363C0-91A4-4477-88FA-13225EB8E309}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M11_01_04_Exceptions_ComTratamentoDeExcepcaoEspecífica", "M11_01_04_Exceptions_ComTratamentoDeExcepcaoEspecífica.csproj", "{4931C808-3BF7-4FC1-8B68-FAD0ADD1E795}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3AA363C0-91A4-4477-88FA-13225EB8E309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AA363C0-91A4-4477-88FA-13225EB8E309}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AA363C0-91A4-4477-88FA-13225EB8E309}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AA363C0-91A4-4477-88FA-13225EB8E309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4931C808-3BF7-4FC1-8B68-FAD0ADD1E795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4931C808-3BF7-4FC1-8B68-FAD0ADD1E795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4931C808-3BF7-4FC1-8B68-FAD0ADD1E795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4931C808-3BF7-4FC1-8B68-FAD0ADD1E795}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {67FEF857-85E5-489C-8A28-E504AC420269}
+		SolutionGuid = {66D463E7-4B0B-4AEC-9A3B-24381024FAEC}
 	EndGlobalSection
 EndGlobal
