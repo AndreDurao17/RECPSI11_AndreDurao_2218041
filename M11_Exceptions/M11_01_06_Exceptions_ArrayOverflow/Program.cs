@@ -11,7 +11,14 @@ namespace M11_01_06_Exceptions_ArrayOverflow
             lista[1] = "Gato";
             lista[2] = "Cavalo";
 
-            Console.WriteLine($"O animal na posição na 4 posição do array é: {lista[3]}");
+            try 
+            {
+                Console.WriteLine($"O animal na posição na 4 posição do array é: {lista[3]}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Erro!!! -> {ex.Message}");
+            }
 
             Console.ReadKey();
 
